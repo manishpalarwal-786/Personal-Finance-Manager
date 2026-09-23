@@ -1,0 +1,6 @@
+# Basic & Standard versions use only Python's built-in standard library
+# (csv, os, shutil, datetime, json, sys, collections) — nothing to install.
+#
+# Advanced version features need these two packages:
+matplotlib>=3.7      # for generating spending charts (option 11)
+openpyxl>=3.1         # for exporting to Excel (.xlsx) files (option 10)
